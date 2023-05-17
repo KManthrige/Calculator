@@ -1,0 +1,16 @@
+.answer{
+    font-size: 35px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    font-size: 30px;
+    background-color: darkgray;
+}
+
+.nine{
+    grid-column-start: 1;
+}
+
